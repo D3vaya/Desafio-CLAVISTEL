@@ -1,7 +1,7 @@
 # Desafio Técnico
 
 Como prueba técnica para el acceso a nuestro equipo de desarrollo, usted deberá
-desarrollar la siguiente prueba técnica.
+desarrollar la siguiente app.
 
 ## Problema
 
