@@ -8,7 +8,7 @@ crear la siguiente app.
 A nivel empresarial, mensualmente realizamos torneos de **Clash Royal** para generar
 camaderia entre nuestros colaboradores. Lamentablemente, no tenemos un
 visualizador de brackets de nuestros torenos. Esto nos genera dificultades a la
-hora de seguir los avances de las batallas de nuestros torneos.
+hora de seguir los avances de las batallas de nuestros eventos.
 
 ## Propuesta de solución
 
