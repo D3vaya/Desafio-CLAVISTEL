@@ -30,3 +30,7 @@ talento humano pueda ver el avanza de los torenos internos de Clash Royale.
   - Ejemplos
     - Redux
     - Context Api
+
+## Link de diseño
+
+[Figma](https://www.figma.com/file/YMx8qeeDvHFZMrPu77PbMA/CLAVISTEL?node-id=0%3A1)
