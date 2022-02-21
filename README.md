@@ -15,6 +15,9 @@ hora de seguir los avances de las batallas de nuestros eventos.
 Usted Deberá crear un visualizador de brackets para que nuestra gerencia de
 talento humano pueda ver el avanza de los torenos internos de Clash Royale.
 
+![Ejemplo-Bracket-1](https://user-images.githubusercontent.com/6782712/155034765-d3045be4-d4f0-4cab-b14d-cbb390e64ca0.png)
+![Ejemplo-Bracket](https://user-images.githubusercontent.com/6782712/155034747-2b1e8b81-b614-4e55-97da-67c9d2823af2.png)
+
 ## Requerimientos tecnicos
 
 - Debe utilizar la api oficial de clash royale. **RoyaleApi**.
@@ -23,6 +26,7 @@ talento humano pueda ver el avanza de los torenos internos de Clash Royale.
 - Debe utilizar **React.JS** como libreria de interfaces
 - Queda a su desición el cliente Http.
 - Se debe subir la solución a este mismo repositorio con **MR**.
+
 - Debe utilizar gitflow como workflow de ramas.
 - Utilizar sass en los estilos
 - Lenguaje sugerido TypeScript.
